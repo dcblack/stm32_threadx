@@ -9,7 +9,7 @@ In CubeMX Tab:
 ![Software pack open](./img/06.png)
 
 1. Open X-Cube-Azure-H7
-2. Opne RTOS
+2. Open RTOS
    1. Select ThreadX / Core
    2. Select ThreadX / PerformanceInfo
    3. Select ThreadX / TraceX support
